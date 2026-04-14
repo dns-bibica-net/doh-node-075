@@ -31,6 +31,7 @@ A secure, high-performance DNS-over-HTTPS (DoH) proxy running on Cloudflare's gl
 2.  Connect your GitHub and select the forked repository.
 3.  **Build Settings**: Leave everything as **default** (no changes needed).
 4.  **Save and Deploy**.
+5.  **Important:** Go to the **Actions** tab in your GitHub repository and click **I understand my workflows, go ahead and enable them**.
 
 ---
 
